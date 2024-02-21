@@ -17,6 +17,8 @@ if o[0] in [ '+','-','*','/' ]:
     elif o[0] == '*':
         out = a * b
     elif o[0] == '/':
+        
+         if b!=0;
         out = a//b
     print("Output : ",out)
 else:
